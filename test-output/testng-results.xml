@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-17T18:30:05 IST" name="Default suite" finished-at="2024-02-17T18:30:26 IST" duration-ms="20783">
+    <groups>
+    </groups>
+    <test started-at="2024-02-17T18:30:05 IST" name="Default test" finished-at="2024-02-17T18:30:26 IST" duration-ms="20783">
+      <class name="www.lavatech.com.TestClass">
+        <test-method is-config="true" signature="connectSite()[pri:0, instance:www.lavatech.com.TestClass@5ba3f27a]" started-at="2024-02-17T18:30:05 IST" name="connectSite" finished-at="2024-02-17T18:30:06 IST" duration-ms="1081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectSite -->
+        <test-method signature="logIn()[pri:0, instance:www.lavatech.com.TestClass@5ba3f27a]" started-at="2024-02-17T18:30:06 IST" name="logIn" finished-at="2024-02-17T18:30:10 IST" duration-ms="3489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="addCart()[pri:1, instance:www.lavatech.com.TestClass@5ba3f27a]" started-at="2024-02-17T18:30:10 IST" name="addCart" finished-at="2024-02-17T18:30:16 IST" duration-ms="6238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCart -->
+        <test-method signature="placeOrder()[pri:2, instance:www.lavatech.com.TestClass@5ba3f27a]" started-at="2024-02-17T18:30:16 IST" name="placeOrder" finished-at="2024-02-17T18:30:26 IST" duration-ms="9855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:www.lavatech.com.TestClass@5ba3f27a]" started-at="2024-02-17T18:30:26 IST" name="closeSite" finished-at="2024-02-17T18:30:26 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+      </class> <!-- www.lavatech.com.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
